@@ -22,7 +22,7 @@ Nod::Nod(int val)
 
 class Lista_Circulara
 {
-public:
+private:
     Nod *prim;
     Nod *ultim;
 
